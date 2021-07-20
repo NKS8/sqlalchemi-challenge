@@ -1,2 +1,2 @@
 # sqlalchemi-challenge
-sqlalchmeny-10 
+sqlalchemy-10 
